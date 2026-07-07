@@ -1,0 +1,7 @@
+name = "robotics-safety"
+version = "0.1.0"
+description = "Robotics safety gate"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]

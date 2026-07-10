@@ -28,8 +28,8 @@ never compiles to a runnable agent.
 
 ## Files
 
-- `robotics-safety_safe.os` — the correct design.
-- `robotics-safety_unsafe.os` — the tempting-but-wrong version (the negative example a model must learn to reject).
+- `robotics-safety_safe.wave` — the correct design.
+- `robotics-safety_unsafe.wave` — the tempting-but-wrong version (the negative example a model must learn to reject).
 - `ondos.toml` — the project manifest (each app is a self-contained Ondos project).
 
 ---
